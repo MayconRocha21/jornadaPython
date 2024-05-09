@@ -4,4 +4,6 @@ Projetos desenvolvidos durante a semana da JORNADA PYTHON ministrada pelo profes
 
 * [Aula 01] Python Power Up: Automação de Tarefas
 * [Aula 02] Python Insights: Analisando Dados com Python
+* [Aula 03] Python IA: Inteligência Artificial e Previsões
+
 
